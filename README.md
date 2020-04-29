@@ -1,10 +1,10 @@
 # 2020OSS_team
 ## CRUD Mini Project
 
-###<mini Project 주제>
+<mini Project 주제>
   CRUD를 이용한 도서관 도서관리 시스템
 
-###<CRUD 도서관리 시스템의 기능>
+<CRUD 도서관리 시스템의 기능>
   도서관리 시스템으로 등록된 도서를 관리할 수 있게한다 
   1. Create: 책을 도서관리 시스템에 등록한다 (반납)
   2. Read: 등록된 도서목록을 조회한다
@@ -13,11 +13,11 @@
   5. Save: 도서목록을 저장한다
   6. Search: 해당도서를 검색한다
 
-###<Team member>
+<Team member>
   김경록
   유수민
 
-###<Part in charge>
+<Part in charge>
   CRUD, Menu, sort 구현: 김경록
     int selectMenu(); 
     int addBook(Book *b); 
